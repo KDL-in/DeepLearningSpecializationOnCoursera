@@ -12,6 +12,7 @@ Coursera上面的著名深度学习系列课程的学习笔记，以及实现。
 
 - 课程4最后一周的迁移风格，建议线上做，线下做bug修起来比较麻烦。
 - 同样最后一周，人脸识别中weights文件夹中的数据需要解压到当前目录一下，太多了，所以打了个包。有些模型太大我就打了包，注意解压一下。
+- course 5的代码中间被我一顿git的瞎操作丢了，重新在网上借用了别人的版本，只恢复了笔记。
 
 **使用的平台：**
 
@@ -38,8 +39,12 @@ Coursera上面的著名深度学习系列课程的学习笔记，以及实现。
 > - [Week12 - 用于目标检测的YOLO和R-CNN](ConvolutionalNeuralNetworks/notes/week12.md)
 > - [Week13 - 神经风格迁移和人脸识别](ConvolutionalNeuralNetworks/notes/week13.md)
 
-
+## Course 5 - SequenceModels
+> - [Week14 - RNN & LSTM](SequenceModels/notes/week14.md)
+> - [Week15 - Word Embeddings&文本情感分析](SequenceModels/notes/week15.md)
+> - [Week16 - RNN进阶以及Attention模型](SequenceModels/notes/week16.md)
 
 ## Reference
 
 https://www.coursera.org/specializations/deep-learning?
+
